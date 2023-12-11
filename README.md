@@ -44,9 +44,10 @@ you can follow this tutorial to do so:
 When you have installed python and pip, you can then install the python libraries. 
 To do so simply go to your console/terminal and enter: pip install packageName
 
-## Usage
+## Sample output
 
-[Provide examples and explanations of how to use the project.]
+<img width="689" alt="Screenshot 2023-12-11 at 5 57 38 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/da98089c-050e-475e-987b-80d230e71b15">
+
 
 ## Contributing
 
