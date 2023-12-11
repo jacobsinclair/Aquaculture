@@ -22,6 +22,11 @@ in our simulation. **YOU MUST HAVE THE FILES IN THE SAME DIRECTORY FOR IT TO RUN
 * The file will run the simulation and give you the amount of time it will take to complete.
 * You will then be given output in the form of graphs which can be saved to a file if you wish.
 
+## Sample output
+
+<img width="689" alt="Screenshot 2023-12-11 at 5 57 38 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/da98089c-050e-475e-987b-80d230e71b15">
+
+
 ## Prerequisites
 
 Python
@@ -43,16 +48,3 @@ you can follow this tutorial to do so:
 
 When you have installed python and pip, you can then install the python libraries. 
 To do so simply go to your console/terminal and enter: pip install packageName
-
-## Sample output
-
-<img width="689" alt="Screenshot 2023-12-11 at 5 57 38 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/da98089c-050e-475e-987b-80d230e71b15">
-
-
-## Contributing
-
-[Explain how others can contribute to the project. Include guidelines for pull requests and code of conduct if applicable.]
-
-## License 
-
-[Include the type of license the project is under. For example, MIT License, Apache License 2.0, etc.]
