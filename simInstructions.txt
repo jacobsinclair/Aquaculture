@@ -1,0 +1,28 @@
+~ Aquaculture Simulation Instructions ~
+
+Running the program will open a GUI, prompting the user for input.
+
+The first prompt is Tank Size in liters. This will affect the survivability of the fish by deciding what concentrations of chemicals will lead to fish deaths. The larger the tank, the more diluted the chemicals become, and the more likely the fish are to survive. The base value for validation was 75 Liters.
+
+The next prompt is the number of fish that exist in the simulation. They do not breed, so the number of fish can only go down. Going over 20 fish has a severe impact on performance.
+
+Up next is a dropdown, deciding what size all of the fish are. This will affect how much of the plants that they eat, and how much their poop and pee affects the chemical concentrations in the water.
+
+The next prompt is the duration of the simulation. The timeframe can be set to be seconds, weeks, or months. It takes a few weeks for the chemicals to cycle and change, so it is recommended to use the week timeframe. The base value for validation was 8 weeks, and it is recommended to not exceed this for the sake of the activity.
+
+Users can also check the box at the bottom left to save a log of fish activities as a txt file.
+
+Once the parameters are set, click the "Start Simulation" to begin.
+
+NOTE: All input must be whole numbers.
+
+-- Questions: --
+
+	1. What amount of fish can stop the plant biomass from reaching its maximum in 8 weeks?
+
+	2. What tank size is necessary to ensure the survival of 2 fish of any size in 6-8 weeks?
+
+	3. Can you make a self sufficient aquarium?
+
+
+
