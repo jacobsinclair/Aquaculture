@@ -4,7 +4,10 @@ This is a Continuous-Time Simulation of the fluctuation of chemicals in an Aquar
 
 ## Sample Output
 
-<img width="689" alt="Screenshot 2023-12-11 at 5 57 38 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/da98089c-050e-475e-987b-80d230e71b15">
+<img width="690" alt="Screenshot 2023-12-11 at 6 02 00 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/9688f011-9b32-4d30-8bcb-4e51e1d3cb7e">
+
+<img width="740" alt="Screenshot 2023-12-11 at 6 01 25 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/540ff688-6cbf-4423-b9af-afe47659c27e">
+
 
 ## Table of Contents
 - [Sample Output](#sample-output)
@@ -23,6 +26,9 @@ in our simulation. **YOU MUST HAVE THE FILES IN THE SAME DIRECTORY FOR IT TO RUN
 * The file will run the simulation and give you the amount of time it will take to complete.
 * You will then be given output in the form of graphs which can be saved to a file if you wish.
 
+<h3>GUI for the Simulation</h3>
+
+<img width="749" alt="Screenshot 2023-12-11 at 6 01 42 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/5676aa01-3db5-4d2c-8b68-452db053d965">
 
 ## Prerequisites
 
