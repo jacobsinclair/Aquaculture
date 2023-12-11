@@ -4,7 +4,12 @@ This is a Continuous-Time Simulation of the fluctuation of chemicals in an Aquar
 
 ## Sample Output
 
+<h3>A successful simulation, where the aquarium ecosystem is self-sustaining</h3>
+
 <img width="690" alt="Screenshot 2023-12-11 at 6 02 00 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/9688f011-9b32-4d30-8bcb-4e51e1d3cb7e">
+
+
+<h3>Failed simulation, where lethal chemical amounts were reached</h3>
 
 <img width="740" alt="Screenshot 2023-12-11 at 6 01 25 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/540ff688-6cbf-4423-b9af-afe47659c27e">
 
