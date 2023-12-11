@@ -2,18 +2,15 @@
 
 This is a Continuous-Time Simulation of the fluctuation of chemicals in an Aquarium system. The chemicals we are keeping track of in the state of our aquarium are: Ammonium, Nitrite, Nitrate, Nitrogen gas, Disolved Oxygen and pH. Our goal is to predict if an aquarium configuration (Size, Temp, Lighting, Fish, Plants) will be self sufficent, require water changes / feeding or will not support life. 
 
-## Sample output
+## Sample Output
 
 <img width="689" alt="Screenshot 2023-12-11 at 5 57 38 PM" src="https://github.com/jacobsinclair/Aquaculture/assets/134180713/da98089c-050e-475e-987b-80d230e71b15">
 
 ## Table of Contents
-
+- [Sample Output](#sample-output)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 To use the simulation, download both aquarium.py and fish.py.
