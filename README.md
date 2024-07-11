@@ -44,7 +44,7 @@ Python libraries:
 * alive_progress
 * PyQt5
 
-## Installation
+## Installation/Dependencies
 
 Install Python here:
 * https://www.python.org/downloads/
